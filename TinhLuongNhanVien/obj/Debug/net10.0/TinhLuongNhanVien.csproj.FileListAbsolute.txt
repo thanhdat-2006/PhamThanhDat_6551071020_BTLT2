@@ -1,0 +1,28 @@
+E:\LTTQ\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.exe
+E:\LTTQ\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.deps.json
+E:\LTTQ\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.runtimeconfig.json
+E:\LTTQ\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.dll
+E:\LTTQ\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.pdb
+E:\LTTQ\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.GeneratedMSBuildEditorConfig.editorconfig
+E:\LTTQ\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.AssemblyInfoInputs.cache
+E:\LTTQ\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.AssemblyInfo.cs
+E:\LTTQ\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.csproj.CoreCompileInputs.cache
+E:\LTTQ\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.dll
+E:\LTTQ\TinhLuongNhanVien\obj\Debug\net10.0\refint\TinhLuongNhanVien.dll
+E:\LTTQ\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.pdb
+E:\LTTQ\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.genruntimeconfig.cache
+E:\LTTQ\TinhLuongNhanVien\obj\Debug\net10.0\ref\TinhLuongNhanVien.dll
+D:\Lập trình trực quan\BTLT_2\BTLT_2\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.exe
+D:\Lập trình trực quan\BTLT_2\BTLT_2\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.deps.json
+D:\Lập trình trực quan\BTLT_2\BTLT_2\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.runtimeconfig.json
+D:\Lập trình trực quan\BTLT_2\BTLT_2\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.dll
+D:\Lập trình trực quan\BTLT_2\BTLT_2\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.pdb
+D:\Lập trình trực quan\BTLT_2\BTLT_2\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình trực quan\BTLT_2\BTLT_2\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.AssemblyInfoInputs.cache
+D:\Lập trình trực quan\BTLT_2\BTLT_2\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.AssemblyInfo.cs
+D:\Lập trình trực quan\BTLT_2\BTLT_2\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.csproj.CoreCompileInputs.cache
+D:\Lập trình trực quan\BTLT_2\BTLT_2\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.dll
+D:\Lập trình trực quan\BTLT_2\BTLT_2\TinhLuongNhanVien\obj\Debug\net10.0\refint\TinhLuongNhanVien.dll
+D:\Lập trình trực quan\BTLT_2\BTLT_2\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.pdb
+D:\Lập trình trực quan\BTLT_2\BTLT_2\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.genruntimeconfig.cache
+D:\Lập trình trực quan\BTLT_2\BTLT_2\TinhLuongNhanVien\obj\Debug\net10.0\ref\TinhLuongNhanVien.dll
