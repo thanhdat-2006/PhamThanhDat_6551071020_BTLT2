@@ -1,0 +1,28 @@
+E:\LTTQ\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.exe
+E:\LTTQ\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.deps.json
+E:\LTTQ\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.runtimeconfig.json
+E:\LTTQ\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.dll
+E:\LTTQ\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.pdb
+E:\LTTQ\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.GeneratedMSBuildEditorConfig.editorconfig
+E:\LTTQ\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.AssemblyInfoInputs.cache
+E:\LTTQ\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.AssemblyInfo.cs
+E:\LTTQ\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.csproj.CoreCompileInputs.cache
+E:\LTTQ\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.dll
+E:\LTTQ\QuanLySachCoBan\obj\Debug\net10.0\refint\QuanLySachCoBan.dll
+E:\LTTQ\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.pdb
+E:\LTTQ\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.genruntimeconfig.cache
+E:\LTTQ\QuanLySachCoBan\obj\Debug\net10.0\ref\QuanLySachCoBan.dll
+D:\Lập trình trực quan\BTLT_2\BTLT_2\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.exe
+D:\Lập trình trực quan\BTLT_2\BTLT_2\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.deps.json
+D:\Lập trình trực quan\BTLT_2\BTLT_2\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.runtimeconfig.json
+D:\Lập trình trực quan\BTLT_2\BTLT_2\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.dll
+D:\Lập trình trực quan\BTLT_2\BTLT_2\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.pdb
+D:\Lập trình trực quan\BTLT_2\BTLT_2\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình trực quan\BTLT_2\BTLT_2\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.AssemblyInfoInputs.cache
+D:\Lập trình trực quan\BTLT_2\BTLT_2\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.AssemblyInfo.cs
+D:\Lập trình trực quan\BTLT_2\BTLT_2\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.csproj.CoreCompileInputs.cache
+D:\Lập trình trực quan\BTLT_2\BTLT_2\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.dll
+D:\Lập trình trực quan\BTLT_2\BTLT_2\QuanLySachCoBan\obj\Debug\net10.0\refint\QuanLySachCoBan.dll
+D:\Lập trình trực quan\BTLT_2\BTLT_2\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.pdb
+D:\Lập trình trực quan\BTLT_2\BTLT_2\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.genruntimeconfig.cache
+D:\Lập trình trực quan\BTLT_2\BTLT_2\QuanLySachCoBan\obj\Debug\net10.0\ref\QuanLySachCoBan.dll
